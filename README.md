@@ -1,1 +1,2 @@
-# CLEAR-Seg
+# CLEAR-Seg: Refining CLIP  for Weakly Supervised Semantic Segmentation in IoT-Enabled Autonomous Driving
+# Coming soon...
