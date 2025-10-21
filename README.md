@@ -1,2 +1,2 @@
-# CLEAR-Seg: Refining CLIP  for Weakly Supervised Semantic Segmentation in IoT-Enabled Autonomous Driving
+# Unifying Structural Priors and Semantic Alignment via Dual Foundation Models for Weakly Supervised Segmentation
 # Coming soon...
